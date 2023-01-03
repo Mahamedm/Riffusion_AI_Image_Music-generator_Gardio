@@ -20,8 +20,9 @@ This project can be run in a Google Colab notebook. To open the notebook in Cola
 
 # Installation
 To install the required libraries, run the following command(cells available in the notebook):
-`!pip install -q https://github.com/camenduru/stable-diffusion-webui-colab/releases/download/0.0.15/xformers-0.0.15.dev0+189828c.d20221207-cp38-cp38-linux_x86_64.whl
-!pip install -U transformers diffusers gradio ftfy pydub -q`
+
+`!pip install -q https://github.com/camenduru/stable-diffusion-webui-colab/releases/download/0.0.15/xformers-0.0.15.dev0+189828c.d20221207-cp38-cp38-linux_x86_64.whl`<br>
+`!pip install -U transformers diffusers gradio ftfy pydub -q`
 
 # Usage
 Functions for processing audio files and converting between spectrogram images and waveforms are as follows:
