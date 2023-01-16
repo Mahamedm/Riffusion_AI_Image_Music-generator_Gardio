@@ -10,7 +10,7 @@ pydub
 scipy
 torch
 torchaudio`
-### Recommended: Running in [Google Colab](https://colab.research.google.com/)
+### Recommended: Running in [Google Colab.](https://colab.research.google.com/)
 This project can be run in a Google Colab notebook. To open the notebook in Colab, click the "Open in Colab" button at the top of this page, or follow these steps:
 
 1. Go to the Google Colab homepage.
@@ -37,4 +37,4 @@ To use these functions, import the necessary modules and then call the desired f
 
 ### Credits goes to the [riffusion project](https://github.com/riffusion/riffusion) and [amrrs's ai-music-video](https://github.com/amrrs/ai-music-video/blob/main/Riffusion_%2B_Gradio_AI_Generated_Music_Video.ipynb).
 
-#### This code is released under the MIT License. See LICENSE for more details.
+##### This code is released under the MIT License. See LICENSE for more details.
